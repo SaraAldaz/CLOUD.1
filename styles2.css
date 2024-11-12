@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: rgb(181, 122, 221);
+    background-color: rgb(111, 153, 210);
     color: white;
     padding: 15px 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -68,7 +68,7 @@ header {
 }
 
 .dropbtn {
-    background-color: rgb(181, 122, 221);
+    background-color: rgb(111, 153, 210);
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -85,7 +85,7 @@ header {
 .dropup-content {
     display: none;
     position: absolute;
-    background-color:rgb(181, 122, 221);
+    background-color:rgb(111, 153, 210);
     min-width: 160px;
 }
 
@@ -105,7 +105,7 @@ header {
 }
 
 .dropup:hover .dropbtn {
-    background-color:rgb(181, 122, 221);
+    background-color:rgb(111, 153, 210);
 }
 
 @media screen and (max-width: 600px) {
@@ -165,14 +165,14 @@ header {
 .card{
     background-color: #fff;
     border-radius: 12px;
-    box-shadow: 0 4px 8px rgb(181, 122, 221);
+    box-shadow: 0 4px 8px rgb(111, 153, 210);
     width: 300px;
     padding: 20px;
     transition: transform 0.3s, box-shadow 0.3s;
 }
 .card:hover{
     transform: translateY(-10px);
-    box-shadow: 0 8px 16px rgb(181, 122, 221);
+    box-shadow: 0 8px 16px rgb(111, 153, 210);
 }
 .card img{
     width: 100%;
@@ -208,7 +208,7 @@ header {
     }
 }
 footer {
-    background-color: rgb(181, 122, 221);
+    background-color: rgb(111, 153, 210);
     color: white;
     text-align: center;
     padding: 5px 0;
