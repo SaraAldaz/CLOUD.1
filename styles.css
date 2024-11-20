@@ -1,13 +1,13 @@
 body {
     margin: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: cursive;
     line-height: 1.6;
     background-color: #f5f7fa;
     color: #333;
 }
 
 header {
-    background-color: rgb(181, 122, 221);
+    background-color: rgb(33, 38, 85);
     color: white;
     padding: 15px 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -64,12 +64,12 @@ header {
 }
 
 .navbar ul li a.active {
-    background-color: #bd84ce;
+    background-color: #121757;
     border-radius: 4px;
 }
 
 .dropbtn {
-    background-color: rgb(181, 122, 221);
+    background-color: rgb(33, 38, 85);
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -86,7 +86,7 @@ header {
 .dropup-content {
     display: none;
     position: absolute;
-    background-color:rgb(181, 122, 221);
+    background-color:rgb(33, 38, 85);
     min-width: 160px;
 }
 
@@ -106,7 +106,7 @@ header {
 }
 
 .dropup:hover .dropbtn {
-    background-color:rgb(181, 122, 221);
+    background-color:rgb(33, 38, 85);
 }
 
 @media screen and (max-width: 600px) {
@@ -192,7 +192,7 @@ main {
 }
 
 footer {
-    background-color: rgb(181, 122, 221);
+    background-color: rgb(33, 38, 85);
     color: white;
     text-align: center;
     padding: 5px 0;
@@ -264,7 +264,7 @@ input[type="radio"] {
 }
 
 h2{
-    color:#c59dfa;
+    color:#202566;
     font-family: cursive;
     font-size: 20px;
 }
@@ -343,4 +343,14 @@ li{
 #imagen1{
     
     height: 400px;
+}
+footer {
+    background-color: rgb(33, 57, 102);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
 }
